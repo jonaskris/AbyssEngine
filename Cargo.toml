@@ -1,0 +1,15 @@
+[package]
+name = "abyssengine"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+name = "core"
+path = "src/lib.rs"
+
+[[bin]]
+name = "abyssengine"
+path = "src/bin/main.rs"
+
+[dependencies]
+glfw = "0.41.0"
