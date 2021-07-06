@@ -1,2 +1,5 @@
-pub use window::Window;
-pub mod window;
+pub use error::EngineError;
+pub mod error; 
+
+pub use context::Context;
+pub mod context;

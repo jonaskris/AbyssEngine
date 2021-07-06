@@ -1,0 +1,14 @@
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/CMakeFiles/install/strip.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/CMakeFiles/install/local.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/CMakeFiles/install.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/CMakeFiles/list_install_components.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/CMakeFiles/rebuild_cache.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/CMakeFiles/edit_cache.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/CMakeFiles/uninstall.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/src/CMakeFiles/install/strip.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/src/CMakeFiles/install.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/src/CMakeFiles/list_install_components.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/src/CMakeFiles/rebuild_cache.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/src/CMakeFiles/edit_cache.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/src/CMakeFiles/install/local.dir
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/build/src/CMakeFiles/glfw.dir

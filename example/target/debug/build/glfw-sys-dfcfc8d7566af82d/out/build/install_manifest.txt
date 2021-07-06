@@ -1,0 +1,8 @@
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/include/GLFW/glfw3native.h
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/include/GLFW/glfw3.h
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/lib/cmake/glfw3/glfw3Config.cmake
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/lib/cmake/glfw3/glfw3Targets.cmake
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/lib/cmake/glfw3/glfw3Targets-debug.cmake
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/lib/pkgconfig/glfw3.pc
+/home/jonas/Desktop/AbyssEngine/example/target/debug/build/glfw-sys-dfcfc8d7566af82d/out/lib/libglfw3.a
